@@ -1,0 +1,15 @@
+*.dll
+*.env
+*.exe
+*.idea/
+*.log
+*.out
+*.so
+*build/
+*temp/
+*tmp/
+
+*.git/
+.github/
+.gitignore
+.vscode/
